@@ -1,0 +1,5 @@
+arch = [
+    "binwalk",
+    "ent",
+    "libdivsufsort",
+]
