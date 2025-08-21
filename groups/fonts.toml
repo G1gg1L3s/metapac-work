@@ -1,1 +1,12 @@
-arch = ["adobe-source-code-pro-fonts"]
+arch = [
+    "adobe-source-code-pro-fonts",
+    "noto-fonts",
+    "noto-fonts-cjk",
+    "otf-firamath",
+    "otf-latinmodern-math",
+    "otf-libertinus",
+    "ttf-droid",
+    "ttf-roboto",
+    "ttf-sourcecodepro-nerd",
+    "ttf-times-new-roman",
+]

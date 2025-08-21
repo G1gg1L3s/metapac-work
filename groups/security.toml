@@ -1,1 +1,10 @@
-
+arch = [
+    "age",
+    "arch-audit",
+    "gocryptfs",
+    "clamav",
+    "keepassxc",
+    "syncthing",
+    "wireguard-tools",
+    "wireguard-vanity-address-optimised",
+]
