@@ -164,7 +164,6 @@ arch = [
     "python-pip",
     "python-pipx",
     "python-pycryptodome",
-    "rate-mirrors-bin",
     "remmina",
     "ripgrep",
     "rmtrash",
