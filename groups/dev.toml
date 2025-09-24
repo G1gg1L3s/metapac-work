@@ -31,6 +31,8 @@ arch = [
     "step-ca",
     "step-cli",
     "swtpm",
+    # for tldr
+    "tealdeer",
     "tpm2-tools",
     "uv",
     "vagrant",
