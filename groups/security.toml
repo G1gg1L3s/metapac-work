@@ -4,6 +4,7 @@ arch = [
     "gocryptfs",
     "clamav",
     "keepassxc",
+    "keepassxc-fido",
     "syncthing",
     "wireguard-tools",
     "wireguard-vanity-address-optimised",
