@@ -2,6 +2,8 @@ arch = [
     "alacritty",
     "ansible",
     "bat",
+    # For appsec http proxying
+    "burpsuite",
     "arcanist",
     "clang",
     "cmake",
@@ -14,7 +16,7 @@ arch = [
     "flutter",
     "git",
     "git-lfs",
-    "github-cli",
+    "grpc-cli",
     "go",
     "ipython",
     "localsend-bin",
