@@ -1,6 +1,5 @@
 arch = [
     "alacritty",
-    "ansible",
     "bat",
     # For appsec http proxying
     "burpsuite",
