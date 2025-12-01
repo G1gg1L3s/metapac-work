@@ -174,7 +174,6 @@ arch = [
     "screen",
     "sd",
     "seahorse",
-    "shellcheck",
     "simple-scan",
     "slack-desktop",
     "smartmontools",

@@ -36,6 +36,10 @@ arch = [
     "step-ca",
     "step-cli",
     "swtpm",
+
+    # Linter for shell files
+    "shellcheck",
+
     # for tldr
     "tealdeer",
     "tpm2-tools",
