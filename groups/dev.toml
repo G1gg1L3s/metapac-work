@@ -31,7 +31,6 @@ arch = [
     "quickemu",
 
     "rpi-imager",
-    "sqlitebrowser",
     "starship",
     "step-ca",
     "step-cli",
