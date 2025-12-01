@@ -184,7 +184,6 @@ arch = [
     "strace",
     "sushi",
     "swig",
-    "syncplay",
     "systray-x-common",
     "task",
     "tcpdump",
