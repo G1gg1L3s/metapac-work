@@ -26,6 +26,10 @@ arch = [
     "pyside6",
     "python312",
     "python39",
+
+    # download and setup VMs
+    "quickemu",
+
     "rpi-imager",
     "sqlitebrowser",
     "starship",
@@ -36,17 +40,22 @@ arch = [
     "tealdeer",
     "tpm2-tools",
     "uv",
-    "vagrant",
+
     "virtualbox",
     "virtualbox-guest-iso",
     "virtualbox-host-modules-arch",
+
     "visual-studio-code-bin",
+
+    # wasm stuff
     "wabt",
     "wasm-tools",
     "wasmtime",
+
     "wireshark-qt",
     "yubico-piv-tool",
     "yubikey-manager",
+
     "zellij",
     "zoxide",
 ]
