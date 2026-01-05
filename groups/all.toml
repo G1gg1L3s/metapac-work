@@ -110,7 +110,6 @@ arch = [
     "linux-lts-headers",
     "list-packages-hook",
     "localsearch",
-    "magic-wormhole",
     "malcontent",
     "man-db",
     "man-pages",

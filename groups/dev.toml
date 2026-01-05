@@ -28,12 +28,13 @@ arch = [
     "python39",
 
     # download and setup VMs
-    "quickemu",
+    "quickemu-git",
 
     "rpi-imager",
+
+    # Screenshots
+    "satty",
     "starship",
-    "step-ca",
-    "step-cli",
     "swtpm",
 
     # Linter for shell files
