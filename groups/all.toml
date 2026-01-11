@@ -167,8 +167,6 @@ arch = [
     "ruff",
     "rustup",
     "rygel",
-    "sagemath",
-    "sagemath-doc",
     "sassc",
     "screen",
     "sd",
