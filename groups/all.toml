@@ -158,7 +158,6 @@ arch = [
     "pyenv",
     "python-passlib",
     "python-pip",
-    "python-pipx",
     "python-pycryptodome",
     "remmina",
     "ripgrep",
