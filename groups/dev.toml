@@ -24,7 +24,10 @@ arch = [
     "paru",
     "pnpm",
     "pyside6",
+    "python313",
     "python312",
+    "python311",
+    "python310",
     "python39",
 
     # download and setup VMs
@@ -50,11 +53,6 @@ arch = [
     "virtualbox-host-modules-arch",
 
     "visual-studio-code-bin",
-
-    # wasm stuff
-    "wabt",
-    "wasm-tools",
-    "wasmtime",
 
     "wireshark-qt",
     "yubico-piv-tool",
