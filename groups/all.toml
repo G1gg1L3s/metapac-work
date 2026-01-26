@@ -1,4 +1,4 @@
-arch = [
+arch.packages = [
     "alsa-utils",
     "altair",
     "android-udev",

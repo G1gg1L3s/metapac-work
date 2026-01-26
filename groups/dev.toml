@@ -1,4 +1,4 @@
-arch = [
+arch.packages = [
     "alacritty",
     "bat",
     # For appsec http proxying

@@ -1,4 +1,4 @@
-arch = [
+arch.packages = [
     "age",
     "arch-audit",
     "gocryptfs",

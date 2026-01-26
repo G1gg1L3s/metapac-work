@@ -1,4 +1,4 @@
-arch = [
+arch.packages = [
     "adobe-source-code-pro-fonts",
     "noto-fonts",
     "noto-fonts-cjk",
